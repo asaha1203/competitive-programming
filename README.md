@@ -1,2 +1,2 @@
 # competitive-programming
-solutions to codeforces, USACO, and other contest problems!
+These are my solutions to codeforces, USACO, and other contest problems!
